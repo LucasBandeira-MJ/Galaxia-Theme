@@ -16,6 +16,10 @@
     "dark",
     "galaxia"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBandeira-MJ/Galaxia-Theme"
+  },
   "contributes": {
     "themes": [
       {
