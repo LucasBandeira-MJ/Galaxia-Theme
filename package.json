@@ -1,0 +1,28 @@
+{
+  "name": "galaxia",
+  "displayName": "Galaxia",
+  "description": "Prototype of my first custom VSCode theme",
+  "publisher": "LucasBandeira",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "galaxia"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Galaxia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Galaxia-color-theme.json"
+      }
+    ]
+  }
+}
